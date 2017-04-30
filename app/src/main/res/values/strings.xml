@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestAppTwo</string>
+    <string name="action_settings">Settings</string>
+    <string name="please_click_to_disconnect">Please Click to Disconnect</string>
+    <string name="please_click_to_connect">Please Click to Connect</string>
+    <string name="bt_1">Bt 1</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="enter_server_ip">Enter Server IP Address</string>
+    <string name="ip_address">IP Address</string>
+    <string name="ip_address_hint">IP Address</string>
+    <string name="connect">Connect</string>
+    <string name="no_ip_entered">Please Enter an IP Address</string>
+    <string name="successful_ip_entered">Connecting</string>
+    <string name="invalid_ip">Please Enter a Valid IPv4 Address</string>
+    <string name="failed_to_connect">FAILED: Please ensure the server is active and try again</string>
+</resources>
